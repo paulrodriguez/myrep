@@ -2,4 +2,4 @@ myrep
 =====
 
 this is a test repository
-everyone here is a fucking dick
+this is a test for github using my ssh from bitbucket
